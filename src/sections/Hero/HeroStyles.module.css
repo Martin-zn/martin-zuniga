@@ -84,8 +84,8 @@
 }
 
 .hero{
-    max-width: 300px;
-    width: 300px;
+    max-width: 200px;
+    width: 200px;
 }
 
 @media (width >= 800px){
