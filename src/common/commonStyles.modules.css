@@ -1,0 +1,30 @@
+a {
+    display: block;
+    width: 250px; /* Ancho fijo para todas las tarjetas */
+    margin: 20px; /* Espacio entre las tarjetas */
+    text-align: center;
+    text-decoration: none;
+    color: white; /* Ajustar color de texto */
+    border-radius: 8px; /* Bordes redondeados */
+    transition: transform 0.3s ease-in-out;
+}
+
+a:hover {
+    transform: scale(1.05); /* Efecto de hover */
+}
+
+img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
+
+h3 {
+    margin-top: 10px;
+    font-size: 1.2rem;
+}
+
+.pcontainer {
+    margin-top: 10px;
+    font-size: 1rem;
+}

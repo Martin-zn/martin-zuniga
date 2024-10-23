@@ -1,0 +1,28 @@
+{
+                    "projets": [
+                        {
+                            "src": "https://smartboosts.netlify.app/assets/automatizacion2.webp",
+                            "link": "https://smartboosts.netlify.app/",
+                            "name": "SmartBoost",
+                            "description": "Pagina para pagina de servicios digitales"
+                        },
+                        {
+                            "src": "https://3198df-25.myshopify.com/cdn/shop/files/LOGO_ECOPOLIS_FINAL_NEGRO_ALTA.png?v=1728424755&width=100",
+                            "link": "https://3198df-25.myshopify.com/",
+                            "name": "Ecopolis",
+                            "description": "Pagina para Inmobiliaria Ecopolis"
+                        },
+                        {
+                            "src": "https://www.inviertecondatos.cl/_astro/inversion-inteligente.e61ed6b8_29qSpD.webp",
+                            "link": "https://www.inviertecondatos.cl/",
+                            "name": "InvierteConDatos",
+                            "description": "Formulario de InvierteCon datos"
+                        },
+                        {
+                            "src": "https://www.vendemetuauto.cl/imgs/Logo%20VTA2.png",
+                            "link": "https://www.vendemetuauto.cl/",
+                            "name": "VendemeTuAuto",
+                            "description": "Pagina para compra venta de autos "
+                        }
+                    ]
+                }

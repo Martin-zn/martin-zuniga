@@ -1,12 +1,12 @@
 import styles from './ProjectsStyles.module.css'
 import ProjectCard from '../../common/ProjectCard'
-import projects from '../../data/projects.json'
+import liveProjects from '../../data/liveProjects.json'
 
-function Proyects() {
-  const projectList = projects.projets;
+function LiveProyects() {
+  const projectList = liveProjects.projets;
   return (
     <section className={styles.container} id='proyects'>
-        <h1 className='sectionTitle'>Proyectos Personales</h1>
+        <h1 className='sectionTitle'>Proyectos Freelance</h1>
         <div className={styles.projectsContainer}>
         {projectList.map((project, index) => (
           <ProjectCard
@@ -23,4 +23,4 @@ function Proyects() {
   )
 }
 
-export default Proyects
+export default LiveProyects
